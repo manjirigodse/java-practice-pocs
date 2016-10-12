@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "my.hostAddress",
+      "type": "java.lang.String",
+      "description": "Description for my.hostAddress."
+    },
+    {
+      "name": "my.portNo",
+      "type": "java.lang.String",
+      "description": "Description for my.portNo."
+    },
+    {
+      "name": "my.username",
+      "type": "java.lang.String",
+      "description": "Description for my.username."
+    },
+    {
+      "name": "my.password",
+      "type": "java.lang.String",
+      "description": "Description for my.password."
+    },
+    {
+      "name": "my.filename",
+      "type": "java.lang.String",
+      "description": "Description for my.filename."
+    }
+  ]
+}
